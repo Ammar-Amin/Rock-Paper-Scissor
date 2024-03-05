@@ -3,6 +3,9 @@
 ## Overview
 This repository contains a JavaScript implementation of the classic Rock Paper Scissors game. It's a simple yet engaging project designed to showcase my skills in JavaScript programming. With a clean and intuitive interface, users can enjoy playing this timeless game against the computer.
 
+[Project Link]
+(https://ammars-first-game.netlify.app/)
+
 ## Features
 User Interaction: Players can choose between Rock, Paper, or Scissors by clicking on the corresponding buttons.
 Computer Opponent: The game simulates the computer's choice, providing a challenging opponent for the player.
